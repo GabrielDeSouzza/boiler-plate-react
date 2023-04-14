@@ -8,4 +8,5 @@ module.exports = {
     '^styled-components':
       '<rootDir>/node_modules/styled-components/dist/styled-components.browser.cjs.js',
   },
+  modulePaths: ['<rootDir>/src/', '<rootDir>/.jest'],
 };
