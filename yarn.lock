@@ -1963,7 +1963,6 @@
     "@storybook/client-logger" "7.0.2"
     "@storybook/manager-api" "7.0.2"
 
-
 "@storybook/api@7.0.5":
   version "7.0.5"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-7.0.5.tgz#e4f01d0f68d94082f2328bd188d198718c4e7486"
@@ -1972,8 +1971,7 @@
     "@storybook/client-logger" "7.0.5"
     "@storybook/manager-api" "7.0.5"
 
-"@storybook/blocks@7.0.2", "@storybook/blocks@^7.0.2":
-
+"@storybook/blocks@7.0.2":
   version "7.0.2"
   resolved "https://registry.npmjs.org/@storybook/blocks/-/blocks-7.0.2.tgz"
   integrity sha512-JzHmU8jZLzeQ6bunzci8j/2Ji18GBTyhrPFLk5RjEbMNGWpGjvER/yR127tZOdbPguVNr4iVbRfGzd1wGHlrzA==
@@ -9101,10 +9099,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@2.8.7, prettier@^2.8.0:
-  version "2.8.7"
-  resolved "https://registry.npmjs.org/prettier/-/prettier-2.8.7.tgz"
-  integrity sha512-yPngTo3aXUUmyuTjeTUT75txrf+aMh9FiD7q9ZE/i6r0bPb22g4FsE6Y338PQX1bmfy08i9QQCB7/rcUAVntfw==
+prettier@2.8.8, prettier@^2.8.0:
+  version "2.8.8"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.8.tgz#e8c5d7e98a4305ffe3de2e1fc4aca1a71c28b1da"
+  integrity sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==
 
 pretty-bytes@^5.3.0, pretty-bytes@^5.4.1:
   version "5.6.0"
