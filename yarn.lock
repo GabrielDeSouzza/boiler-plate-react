@@ -1963,7 +1963,6 @@
     "@storybook/client-logger" "7.0.2"
     "@storybook/manager-api" "7.0.2"
 
-
 "@storybook/api@7.0.5":
   version "7.0.5"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-7.0.5.tgz#e4f01d0f68d94082f2328bd188d198718c4e7486"
@@ -1972,8 +1971,7 @@
     "@storybook/client-logger" "7.0.5"
     "@storybook/manager-api" "7.0.5"
 
-"@storybook/blocks@7.0.2", "@storybook/blocks@^7.0.2":
-
+"@storybook/blocks@7.0.2":
   version "7.0.2"
   resolved "https://registry.npmjs.org/@storybook/blocks/-/blocks-7.0.2.tgz"
   integrity sha512-JzHmU8jZLzeQ6bunzci8j/2Ji18GBTyhrPFLk5RjEbMNGWpGjvER/yR127tZOdbPguVNr4iVbRfGzd1wGHlrzA==
@@ -3366,10 +3364,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@18.0.34", "@types/react@>=16":
-  version "18.0.34"
-  resolved "https://registry.npmjs.org/@types/react/-/react-18.0.34.tgz"
-  integrity sha512-NO1UO8941541CJl1BeOXi8a9dNKFK09Gnru5ZJqkm4Q3/WoQJtHvmwt0VX0SB9YCEwe7TfSSxDuaNmx6H2BAIQ==
+"@types/react@*", "@types/react@18.0.38", "@types/react@>=16":
+  version "18.0.38"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.38.tgz#02a23bef8848b360a0d1dceef4432c15c21c600c"
+  integrity sha512-ExsidLLSzYj4cvaQjGnQCk4HFfVT9+EZ9XZsQ8Hsrcn8QNgXtpZ3m9vSIC2MWtx7jHictK6wYhQgGh6ic58oOw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
